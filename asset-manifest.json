@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/funbox-tt/static/css/main.9193f4ab.chunk.css",
+    "main.js": "/funbox-tt/static/js/main.d1391227.chunk.js",
+    "main.js.map": "/funbox-tt/static/js/main.d1391227.chunk.js.map",
+    "runtime-main.js": "/funbox-tt/static/js/runtime-main.8faf75bd.js",
+    "runtime-main.js.map": "/funbox-tt/static/js/runtime-main.8faf75bd.js.map",
+    "static/js/2.71a6bf5e.chunk.js": "/funbox-tt/static/js/2.71a6bf5e.chunk.js",
+    "static/js/2.71a6bf5e.chunk.js.map": "/funbox-tt/static/js/2.71a6bf5e.chunk.js.map",
+    "index.html": "/funbox-tt/index.html",
+    "precache-manifest.578ce907a35e238d319e8ec8d7942f0a.js": "/funbox-tt/precache-manifest.578ce907a35e238d319e8ec8d7942f0a.js",
+    "service-worker.js": "/funbox-tt/service-worker.js",
+    "static/css/main.9193f4ab.chunk.css.map": "/funbox-tt/static/css/main.9193f4ab.chunk.css.map",
+    "static/js/2.71a6bf5e.chunk.js.LICENSE.txt": "/funbox-tt/static/js/2.71a6bf5e.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/funbox-tt/static/media/exo20-thin.b7f2073d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8faf75bd.js",
+    "static/js/2.71a6bf5e.chunk.js",
+    "static/css/main.9193f4ab.chunk.css",
+    "static/js/main.d1391227.chunk.js"
+  ]
+}
